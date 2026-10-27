@@ -1,0 +1,13 @@
+```text
+# MLflow local logs and tracking database
+mlruns/
+mlflow.db
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
